@@ -1,0 +1,6 @@
+TimeCreated,Id,LevelDisplayName,ProviderName,Message
+2025-08-10T12:00:05Z,4625,Information,Microsoft-Windows-Security-Auditing,"An account failed to log on. Account Name: alice"
+2025-08-10T12:00:30Z,4625,Information,Microsoft-Windows-Security-Auditing,"An account failed to log on. Account Name: alice"
+2025-08-10T12:01:00Z,4625,Information,Microsoft-Windows-Security-Auditing,"An account failed to log on. Account Name: alice"
+2025-08-10T12:02:00Z,4688,Information,Microsoft-Windows-Security-Auditing,"A new process has been created. New Process Name: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe CommandLine: powershell.exe -enc aQBmACgA"
+2025-08-10T12:03:00Z,4688,Information,Microsoft-Windows-Security-Auditing,"A new process has been created. New Process Name: C:\Windows\System32\notepad.exe CommandLine: notepad.exe"
