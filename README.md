@@ -9,7 +9,7 @@ This is a small, reproducible demo that highlights Python scripting, basic detec
 ## Quick Start
 1. Clone the repo
 ```bash
-git clone https://github.com/<youruser>/winlog-detect.git
+git clone https://github.com/Josperdo/winlog-detect.git
 cd winlog-detect
 ```
 
